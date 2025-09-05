@@ -1,0 +1,6 @@
+// A fragment shader that colors everything "Hello, World!"-yellow.
+// This is a vast simplification; you can't just print text easily.
+void main() {
+    gl_FragColor = vec4(1.0, 1.0, 0.0, 1.0); // Yellow
+}
+// (This is a cheat. True "Hello, World!" in graphics involves rendering text, which is complex.)

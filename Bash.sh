@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello, World!"
+# This is how you run it:
+echo | sed 's/.*/Hello, World!/'

@@ -1,0 +1,3 @@
+HelloWorld is a variable
+Let HelloWorld be "Hello, World!"
+Shout HelloWorld

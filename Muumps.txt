@@ -1,0 +1,3 @@
+hello
+    WRITE "Hello, World!",!
+    QUIT

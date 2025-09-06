@@ -1,0 +1,23 @@
+#include <p16f84a.inc>
+    __config _HS_OSC & _WDT_OFF & _PWRTE_ON
+
+    cblock 0x0C
+        counter
+    endc
+
+    org 0x00
+    goto Start
+
+Start
+    movlw   'H'
+    call    SendChar
+    movlw   'e'
+    call    SendChar
+    ; ... (this would be very long for the full string)
+    goto    $
+
+SendChar
+    ; ... (subroutine to send a character via UART, very hardware specific)
+    return
+
+    end

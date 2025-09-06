@@ -1,0 +1,2 @@
+(Hello, World!) = flush
+/Courier findfont 12 scalefont setfont 100 100 moveto show

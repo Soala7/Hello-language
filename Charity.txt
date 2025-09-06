@@ -1,0 +1,3 @@
+data hello : world -> world
+intro
+    putStr "Hello, World!\n"

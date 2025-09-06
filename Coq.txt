@@ -1,0 +1,6 @@
+Require Extraction.
+Extraction Language Haskell.
+
+Definition main : IO unit := puts "Hello, World!".
+
+Extraction "hello" main.

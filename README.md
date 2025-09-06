@@ -11,7 +11,7 @@ I know it’s impossible to cover *every* language, but the goal is to do as man
 
 
 
-#🌟 Inspiration
+🌟 Inspiration
 
 The Hello World program is often the first thing you write when learning a new language.
 This repo is my journey through programming history, modern languages, and esolangs that make you laugh.

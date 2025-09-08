@@ -1,0 +1,2 @@
+// In the Dark language (conceptual)
+print("Hello, World!")

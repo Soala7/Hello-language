@@ -1,0 +1,5 @@
+-- Lustre is node-based for streams; output is a constant stream of this string.
+node Hello_World () returns (O: string);
+let
+    O = "Hello, World!";
+tel

@@ -1,0 +1,9 @@
+EHLO example.com
+MAIL FROM: <sender@example.com>
+RCPT TO: <recipient@example.com>
+DATA
+Subject: Hello, World!
+
+Hello, World!
+.
+QUIT

@@ -1,0 +1,2 @@
+{- Orc is a orchestration language, so a simple print is a bit contrived -}
+Println("Hello, World!") >> stop

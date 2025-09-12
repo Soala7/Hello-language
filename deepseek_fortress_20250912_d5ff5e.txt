@@ -1,0 +1,5 @@
+component HelloWorld
+export Executable
+
+run() = print("Hello, World!")
+end

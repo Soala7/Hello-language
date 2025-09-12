@@ -1,0 +1,3 @@
+# Run with: make -f Makefile print
+print:
+	@echo "Hello, World!"

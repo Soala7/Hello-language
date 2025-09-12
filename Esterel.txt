@@ -1,0 +1,6 @@
+module Hello_World:
+    loop
+        await tick;
+        emit Output("Hello, World!");
+    end loop
+end module

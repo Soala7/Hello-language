@@ -1,0 +1,11 @@
+theory HelloWorld
+  imports Main
+begin
+
+section ‹Hello World›
+
+text ‹A simple Hello World example.›
+
+value "''Hello, World!''"
+
+end

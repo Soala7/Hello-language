@@ -1,0 +1,9 @@
+:- object(hello).
+
+    :- public(show/0).
+    show :-
+        write('Hello, World!'), nl.
+
+:- end_object.
+
+% Then to run: hello::show.

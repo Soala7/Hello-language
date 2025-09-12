@@ -1,0 +1,6 @@
+module helloWorld(Empty);
+  rule sayHello;
+    $display("Hello, World!");
+    $finish;
+  endrule
+endmodule

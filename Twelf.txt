@@ -1,0 +1,4 @@
+%% This is a signature, not an executable program in the usual sense.
+%% Showing "Hello, World!" isn't its purpose.
+
+hello = "Hello, World!".

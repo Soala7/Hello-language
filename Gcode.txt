@@ -1,0 +1,3 @@
+; This would not print text, but might move the toolhead to trace the letters.
+; A true "Hello, World!" is impractical.
+M117 Hello, World! ; Display message on printer screen

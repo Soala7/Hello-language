@@ -12,8 +12,7 @@ This repository serves as a linguistic museum, a programmer's curiosity cabinet,
 2.  [How to Use](#how-to-use)
 3.  [Languages Featured](#languages-featured)
 4.  [Contributing](#contributing)
-5.  [License](#license)
-6.  [Acknowledgments](#acknowledgments)
+5.  [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
@@ -95,11 +94,7 @@ Contributions are **extremely welcome**! This project thrives on community input
 **Guidelines:**
 *   Please ensure the code is clean and well-commented if the syntax is unusual.
 *   For esoteric languages, a brief explanation of how the code works is appreciated.
-*   Only submit code that you write yourself or have the right to share.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+*   Only submit code that you write yourself or have the right to 
 
 ## Acknowledgments
 
